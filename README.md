@@ -33,7 +33,7 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 📦 Featured Projects
 
-- **[AegisAI](https://inno-hq.github.io/aegisai-nhi-governance/pitch/pitch_deck.html#1))**  
+- **[AegisAI](https://inno-hq.github.io/aegisai-nhi-governance/pitch/pitch_deck.html#1)**  
   A strategic identity governance layer purpose-built for AI and cloud-native ecosystems. AegisAI maps non-human identities (NHI), enforces fine-grained access policies through a YAML-based DSL, and provides audit capabilities — helping engineering and security leaders reduce risk from overprivileged AI agents, service accounts, and API keys.
 
 - **[Obliq](https://github.com/inno-hq/Obliq-Product-Strategy)**  

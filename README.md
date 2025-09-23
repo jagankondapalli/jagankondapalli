@@ -56,7 +56,7 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 🧭 Philosophy
 
-➡️ See also: [My Leadership Principles](./Leadership_Principles.md)
+➡️ See also: [My Leadership Principles](https://github.com/jagankondapalli/jagankondapalli/blob/main/Leadership%20Principles)
 
 - “Strong platforms don’t just scale systems — they scale teams.”  
 - Empower engineers with tools and context to move fast **without breaking reliability**  

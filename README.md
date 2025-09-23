@@ -33,16 +33,10 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 📦 Featured Projects
 
-- **[AegisAI](https://github.com/jagankondapalli/aegisai)**  
+- **[AegisAI](https://inno-hq.github.io/aegisai-nhi-governance/pitch/pitch_deck.html#1))**  
   A strategic identity governance layer purpose-built for AI and cloud-native ecosystems. AegisAI maps non-human identities (NHI), enforces fine-grained access policies through a YAML-based DSL, and provides audit capabilities — helping engineering and security leaders reduce risk from overprivileged AI agents, service accounts, and API keys.
 
-- **[Production Readiness Bot](https://github.com/jagankondapalli/prr-bot)**  
-  A developer-native GitHub bot that automates production readiness checks using structured YAML maturity models. This enables engineering orgs to codify reliability gates, improve service standards, and ensure consistent platform quality at scale — without blocking velocity.
-
-- **[Infra Template Generator](https://github.com/jagankondapalli/infra-template-gen)**  
-  A developer productivity tool that generates customizable infrastructure-as-code (IaC) templates via VSCode, with optional AI integration. Designed to reduce onboarding time, standardize cloud provisioning, and accelerate secure-by-default deployments across multi-cloud environments.
-
-- **[Obliq](https://github.com/jagankondapalli/obliq)**  
+- **[Obliq](https://github.com/inno-hq/Obliq-Product-Strategy)**  
   An AI-powered journaling and self-coaching platform designed for individuals and teams to reflect, adapt, and grow. Obliq integrates a modular LLM engine, mood-aware insight timelines, and tone-based prompt logic — enabling continuous personal development and emotionally intelligent self-observation.
 
 ---
@@ -62,10 +56,12 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 🧭 Philosophy
 
-> “Strong platforms don’t just scale systems — they scale teams.”  
-> I believe in empowering engineers with tools and context to move fast **without breaking reliability**.  
-> Great teams are built on shared purpose, psychological safety, and the autonomy to solve hard problems together.  
-> Great careers — and lives — are built on reflection, reinvention, and choosing growth over comfort.
+➡️ See also: [My Leadership Principles](./Leadership_Principles.md)
+
+- “Strong platforms don’t just scale systems — they scale teams.”  
+- Empower engineers with tools and context to move fast **without breaking reliability**  
+- Build teams grounded in shared purpose, psychological safety, and autonomy  
+- Embrace careers and lives rooted in reflection, reinvention, and choosing growth over comfort
 
 ---
 

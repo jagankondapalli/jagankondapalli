@@ -1,5 +1,9 @@
 # Jagan Kondapalli
 
+![Last Updated](https://img.shields.io/badge/last%20updated-September%202023-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagan%20Kondapalli-blue)](https://www.linkedin.com/in/jagankondapalli)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-%40jagankondapalli-black)](https://github.com/jagankondapalli)
+
 🧭 **North Star**: Build high-leverage platforms, teams, and cultures that unlock scale, resilience, and human potential — through clarity, trust, and continuous reinvention.
 
 🎯 Director of Engineering | Platform | DevOps | SRE | AI-Native Infrastructure  
@@ -33,10 +37,16 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 📦 Featured Projects
 
-- **[AegisAI](https://inno-hq.github.io/aegisai-nhi-governance/pitch/pitch_deck.html#1)**  
+- **[AegisAI](https://github.com/jagankondapalli/aegisai)**  
   A strategic identity governance layer purpose-built for AI and cloud-native ecosystems. AegisAI maps non-human identities (NHI), enforces fine-grained access policies through a YAML-based DSL, and provides audit capabilities — helping engineering and security leaders reduce risk from overprivileged AI agents, service accounts, and API keys.
 
-- **[Obliq](https://github.com/inno-hq/Obliq-Product-Strategy)**  
+- **[Production Readiness Bot](https://github.com/jagankondapalli/prr-bot)**  
+  A developer-native GitHub bot that automates production readiness checks using structured YAML maturity models. This enables engineering orgs to codify reliability gates, improve service standards, and ensure consistent platform quality at scale — without blocking velocity.
+
+- **[Infra Template Generator](https://github.com/jagankondapalli/infra-template-gen)**  
+  A developer productivity tool that generates customizable infrastructure-as-code (IaC) templates via VSCode, with optional AI integration. Designed to reduce onboarding time, standardize cloud provisioning, and accelerate secure-by-default deployments across multi-cloud environments.
+
+- **[Obliq](https://github.com/jagankondapalli/obliq)**  
   An AI-powered journaling and self-coaching platform designed for individuals and teams to reflect, adapt, and grow. Obliq integrates a modular LLM engine, mood-aware insight timelines, and tone-based prompt logic — enabling continuous personal development and emotionally intelligent self-observation.
 
 ---

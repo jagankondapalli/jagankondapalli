@@ -1,8 +1,10 @@
+
 # Jagan Kondapalli
 
 ![Last Updated](https://img.shields.io/badge/last%20updated-September%202023-brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagan%20Kondapalli-blue)](https://www.linkedin.com/in/jagankondapalli)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-%40jagankondapalli-black)](https://github.com/jagankondapalli)
+[![Leadership Philosophies](https://img.shields.io/badge/MyLeadership-Philosophies-blueviolet)](./Leadership_Principles.md)
 
 🧭 **North Star**: Build high-leverage platforms, teams, and cultures that unlock scale, resilience, and human potential — through clarity, trust, and continuous reinvention.
 

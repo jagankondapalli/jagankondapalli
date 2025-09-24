@@ -37,7 +37,7 @@ I blend **technical depth with strategic execution**, bridging the gap between e
 
 ## 📦 Featured Projects
 
-- **[AegisAI](https://github.com/inno-hq/aegisai-nhi-governance)**  
+- **[AegisAI](https://inno-hq.github.io/aegisai-nhi-governance/pitch/pitch_deck.html)**  
   A strategic identity governance layer purpose-built for AI and cloud-native ecosystems. AegisAI maps non-human identities (NHI), enforces fine-grained access policies through a YAML-based DSL, and provides audit capabilities — helping engineering and security leaders reduce risk from overprivileged AI agents, service accounts, and API keys.
 
 - **[Production Readiness Bot](https://github.com/jagankondapalli/production-readiness-bot)**  

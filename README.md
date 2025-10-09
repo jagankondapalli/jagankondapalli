@@ -49,7 +49,7 @@ I blend **technical depth with strategic execution**, bridging the gap between e
   An AI-powered journaling and self-coaching platform designed for individuals and teams to reflect, adapt, and grow. Obliq integrates a modular LLM engine, mood-aware insight timelines, and tone-based prompt logic — enabling continuous personal development and emotionally intelligent self-observation.
 
 - **[AI-Powered VS Code Extension for NetApp’s 1P Cloud storage](https://github.com/NetApp/anf-vscode-extension)**
-  A VS Code extension that brings Azure NetApp Files (ANF) storage management directly into your development environment. Manage storage resources, generate templates, and get AI-powered recommendations without leaving VS Code 
+A VS Code extension that brings Azure NetApp Files (ANF) storage management directly into your development environment. Manage storage resources, generate templates, and get AI-powered recommendations without leaving VS Code 
 
 
 ---

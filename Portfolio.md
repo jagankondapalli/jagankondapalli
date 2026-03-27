@@ -1,6 +1,6 @@
 ## **Platform Engineering Leadership Portfolio**
 
-**Target Role: Director of Platform Engineering / SRE / Cloud Infrastructure**
+**Role: Director of Platform Engineering / SRE / Cloud Infrastructure**
 
 ---
 
